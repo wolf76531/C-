@@ -1,0 +1,12 @@
+D:\Amin\guess\bin\Debug\netcoreapp3.1\guess.exe
+D:\Amin\guess\bin\Debug\netcoreapp3.1\guess.deps.json
+D:\Amin\guess\bin\Debug\netcoreapp3.1\guess.runtimeconfig.json
+D:\Amin\guess\bin\Debug\netcoreapp3.1\guess.runtimeconfig.dev.json
+D:\Amin\guess\bin\Debug\netcoreapp3.1\guess.dll
+D:\Amin\guess\bin\Debug\netcoreapp3.1\guess.pdb
+D:\Amin\guess\obj\Debug\netcoreapp3.1\guess.AssemblyInfoInputs.cache
+D:\Amin\guess\obj\Debug\netcoreapp3.1\guess.AssemblyInfo.cs
+D:\Amin\guess\obj\Debug\netcoreapp3.1\guess.csproj.CoreCompileInputs.cache
+D:\Amin\guess\obj\Debug\netcoreapp3.1\guess.dll
+D:\Amin\guess\obj\Debug\netcoreapp3.1\guess.pdb
+D:\Amin\guess\obj\Debug\netcoreapp3.1\guess.genruntimeconfig.cache

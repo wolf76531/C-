@@ -1,0 +1,10 @@
+D:\Jiahuei\Teach\componentExample6\componentExample6\bin\Debug\componentExample6.exe.config
+D:\Jiahuei\Teach\componentExample6\componentExample6\bin\Debug\componentExample6.exe
+D:\Jiahuei\Teach\componentExample6\componentExample6\bin\Debug\componentExample6.pdb
+D:\Jiahuei\Teach\componentExample6\componentExample6\obj\Debug\componentExample6.csprojAssemblyReference.cache
+D:\Jiahuei\Teach\componentExample6\componentExample6\obj\Debug\componentExample6.Form1.resources
+D:\Jiahuei\Teach\componentExample6\componentExample6\obj\Debug\componentExample6.Properties.Resources.resources
+D:\Jiahuei\Teach\componentExample6\componentExample6\obj\Debug\componentExample6.csproj.GenerateResource.cache
+D:\Jiahuei\Teach\componentExample6\componentExample6\obj\Debug\componentExample6.csproj.CoreCompileInputs.cache
+D:\Jiahuei\Teach\componentExample6\componentExample6\obj\Debug\componentExample6.exe
+D:\Jiahuei\Teach\componentExample6\componentExample6\obj\Debug\componentExample6.pdb
