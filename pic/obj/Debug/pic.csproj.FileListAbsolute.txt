@@ -1,0 +1,10 @@
+D:\Amin\pic\bin\Debug\pic.exe.config
+D:\Amin\pic\bin\Debug\pic.exe
+D:\Amin\pic\bin\Debug\pic.pdb
+D:\Amin\pic\obj\Debug\pic.csprojAssemblyReference.cache
+D:\Amin\pic\obj\Debug\pic.Form1.resources
+D:\Amin\pic\obj\Debug\pic.Properties.Resources.resources
+D:\Amin\pic\obj\Debug\pic.csproj.GenerateResource.cache
+D:\Amin\pic\obj\Debug\pic.csproj.CoreCompileInputs.cache
+D:\Amin\pic\obj\Debug\pic.exe
+D:\Amin\pic\obj\Debug\pic.pdb
